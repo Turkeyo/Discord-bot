@@ -1,0 +1,8 @@
+{
+    "TOKEN" : "Your_token_here",
+    "test_role1" : "Your_channel_role",
+    "test_role2" : "Your_channel_role1",
+    "emoji1" : "Use_to_join_role_emoji", 
+    "emoji2" : "Use_to_join_role_emoji",
+    "Message_id" : "Use_to_add_role_message"
+}
